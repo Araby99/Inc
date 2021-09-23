@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Inc/static/css/main.1d0a6a8c.chunk.css",
+    "main.js": "/Inc/static/js/main.aced2523.chunk.js",
+    "main.js.map": "/Inc/static/js/main.aced2523.chunk.js.map",
+    "runtime-main.js": "/Inc/static/js/runtime-main.8ccbab68.js",
+    "runtime-main.js.map": "/Inc/static/js/runtime-main.8ccbab68.js.map",
+    "static/css/2.f2512455.chunk.css": "/Inc/static/css/2.f2512455.chunk.css",
+    "static/js/2.b7be9f08.chunk.js": "/Inc/static/js/2.b7be9f08.chunk.js",
+    "static/js/2.b7be9f08.chunk.js.map": "/Inc/static/js/2.b7be9f08.chunk.js.map",
+    "index.html": "/Inc/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Inc/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1d0a6a8c.chunk.css.map": "/Inc/static/css/main.1d0a6a8c.chunk.css.map",
+    "static/js/2.b7be9f08.chunk.js.LICENSE.txt": "/Inc/static/js/2.b7be9f08.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Inc/static/media/Podkova-SemiBold.a3a1e855.ttf",
+    "static/media/avatar.b91b862c.png": "/Inc/static/media/avatar.b91b862c.png",
+    "static/media/Intern.css": "/Inc/static/media/char-back.767f350a.png",
+    "static/media/char.e4a42567.png": "/Inc/static/media/char.e4a42567.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ccbab68.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.b7be9f08.chunk.js",
+    "static/css/main.1d0a6a8c.chunk.css",
+    "static/js/main.aced2523.chunk.js"
+  ]
+}
